@@ -11,7 +11,6 @@ The aim of Pulse Code Modulation (PCM) is to convert an analog signal into a dig
 Python IDE with Numpy and Scipy
 
 ### PROGRAM:
-
 ```python
 
 import matplotlib.pyplot as plt
@@ -67,7 +66,6 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-
 ### OUTPUT WAVEFORM:
 
 ![image](https://github.com/user-attachments/assets/92cc277d-9524-446a-8a8a-f526c9d0827a)
